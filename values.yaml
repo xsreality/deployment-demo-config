@@ -1,2 +1,2 @@
 deployment-demo:
-  environment: staging
+  environment: argocd
