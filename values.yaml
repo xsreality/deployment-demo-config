@@ -1,3 +1,2 @@
-wrapper:
-  deployment-demo:
-    environment: argocd
+deployment-demo:
+  environment: argocd
